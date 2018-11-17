@@ -1,0 +1,12 @@
+*****Simple Snake Game*****
+ Keys:
+ UP    ->'w'
+ DOWN  ->'s'
+ LEFT  ->'a'
+ RIGHT ->'d'
+ PAUSE ->'p'
+ ESCAPE->'esc'
+---------------
+You can change colors of the game through options.
+i hope you enjoy it :)
+-Lort
