@@ -10,7 +10,7 @@ Mohamed Harraz:(harraz21)
 +FileChooser
 DPs:Momento Strategy Command 
 
-Sherif Rafik:
+Sherif Rafik:(sherifovic)
 +Draw Model
 +Coloring
 +Resize

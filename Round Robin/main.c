@@ -17,5 +17,6 @@ int main()
     roundRobinAlgorithm(p,size,watchTime);
     //DESTRUCT THE QUEUE
     Destroy(x);
+    system("pause");
     return 0;
 }
