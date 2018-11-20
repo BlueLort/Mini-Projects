@@ -1,0 +1,20 @@
+**** WELCOME TO THIS TEXTBASED MMO RPG GAME ***
+its pretty simple game you have to figure a way to kill the legendary dragon.
+.->Game Tile.
+~->Market.
+#->Walls.
+T->either a Treasure or a Trap.
+S->Snake. level (1).
+G->Goblin. level (20).
+B->Bandit. level(50).
+O->Ogre. level(90).
+D->The Legendary Dragon. level(???).
+RULES :
+-you die = you lose.
+Hints :
+-use markets in your advantage.
+-you can't start a fight with the dragon without certain items or you will die in one or two hits depending on your level.
+-Hunt Treasures it gives you decent amount of gold but becareful if its a trap you lose alot of health. :)
+(max 12k gold Or 12k Damge Taken) 5/6 chance to drop gold
+****  GOOD LUCK  ****
+***************************************************
