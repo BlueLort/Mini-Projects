@@ -1,5 +1,6 @@
 # Mini-Projects
 #### This Repository Contains some of Mini-Projects i made during free time 
+You may try any project using the executable file i left in the folder of the project instead of building the entire project(if you dont want to see the code).
 # List
 ## Snake Game
    - First game i have ever made to train my self on making games and improve in C++.
