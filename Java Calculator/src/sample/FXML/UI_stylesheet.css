@@ -1,0 +1,41 @@
+#mainBorder{
+    -fx-background-color: rgba(250, 250, 250, 0.75);
+     -fx-background-radius: 10;
+    -fx-background-insets: 0, 2, 4;
+
+
+
+
+}
+#editField{
+    -fx-background-color:-fx-outer-border, -fx-inner-border,rgb(245,245,245);
+    -fx-background-radius: 5,4,3;
+    -fx-background-opacity: 0.2;
+    -fx-font-size: 21;
+    -fx-border-color: black;
+}
+#resultPanel{
+    -fx-background-color: rgba(250, 250, 250, 0.25);
+     -fx-background-insets: 0, 2, 4;
+       -fx-background-radius: 2;
+       -fx-font-size: 17;
+}
+#button{
+
+    -fx-background-radius: 3.5;
+     -fx-background-insets: 0, 1, 2;
+     -fx-background-color:transparent;
+
+}
+#button:hover{
+    -fx-background-color:-fx-inner-border,rgba(245,245,245,0.5);
+    -fx-background-radius: 3.5;
+     -fx-background-insets: 0, 1, 2;
+}
+#MAINPANEL{
+
+   -fx-background-color:-fx-outer-border, -fx-inner-border,rgb(250,250,250);
+
+   -fx-background-color:transparent;
+
+}
