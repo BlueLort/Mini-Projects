@@ -9,7 +9,7 @@
    - Second Game i have ever made to train my self on making games and improve in C++.
    - Working with OOP for first time and get used to the principles.
    - Train using the windows.h library.
-   
+   - this is a textbased mmorpg game as you can kill enemeies,buy/sell/equip items,gain experience and level up, fighting different level monsters until you kill the objective of the game(the dragon).
    ![CONSOLERPG_IMAGE](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/ConsoleRPG.png)
 ## RoundRobin
    - Implementing simple Round Robin Algorithm using Queue Datastructure.
