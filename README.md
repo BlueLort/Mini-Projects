@@ -40,7 +40,7 @@
 ## Serial Reader
    - Goal was to make a software that reads from Arduino(certain formatting input).
    - That Application is not yet complete like Reading camera frames as this project was to help us in competetions as a Technical Team(MindCloud) we used it during UGVC2018.
-   - You will find Egyptian flag in the Camera and its just a dummy picture instead of leaving that empty.
+   - You will find Egyptian flag in the Camera and its just a placeholder picture instead of leaving that empty(to present the design to my team easily).
    
    ![SERIAL READER IMAGE](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/mindcloud%20Serial%20Reader.png)
    
