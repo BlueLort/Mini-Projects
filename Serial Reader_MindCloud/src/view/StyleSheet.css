@@ -1,0 +1,61 @@
+#background{
+    -fx-background-color: rgba(200, 200, 200,0.5);
+ -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 10, 0, 0,0);
+     -fx-background-radius: 2;
+    -fx-background-insets: 0, 2, 4;
+
+}
+#titledPane{
+      -fx-text-fill: rgba(10, 10, 9,0.8);
+-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 10, 0, 0,0);
+     -fx-background-radius: 10;
+    -fx-background-insets: 0, 2, 4;
+
+}
+#titledPaneCanvas{
+    -fx-background-color: rgba(0, 0, 0,0.5);
+
+}
+
+
+#button{
+  -fx-text-fill: rgba(0, 0, 0,0.8);
+   -fx-background-color: rgba(120, 120, 120,0.5);
+    -fx-background-radius: 3.5;
+    -fx-background-insets: 0, 2, 4;
+
+}
+#button:hover{
+	-fx-text-fill: rgba(0, 0, 0,0.8);
+    -fx-background-color:-fx-inner-border,rgba(245,245,245,0.5);
+    -fx-background-radius: 3.5;
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 10, 0, 0,0);
+    -fx-background-insets: 0, 2, 4;
+}
+#button:selected{
+  -fx-text-fill: rgba(0, 0, 0,0.8);
+    -fx-background-color:-fx-inner-border,rgba(245,245,245,0.5);
+    -fx-background-radius: 3.5;
+     -fx-background-insets: 0, 1, 2;
+}
+
+#textInfo{
+   -fx-text-fill: rgba(255, 255, 255,0.8);
+-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 10, 0, 0,0);
+     -fx-background-radius: 10;
+    -fx-background-insets: 0, 2, 4;
+}
+#refreshbutton{
+  -fx-text-fill: rgba(50, 50, 50,0.8);
+   -fx-background-color: rgba(240, 240, 240,0.6);
+ -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 10, 0, 0,0);
+    -fx-background-radius: 3.5;
+     -fx-background-insets: 0, 1, 2;
+
+}
+#refreshbutton:hover{
+	-fx-text-fill: rgba(0, 0, 0,0.8);
+    -fx-background-color:-fx-inner-border,rgba(245,245,245,0.5);
+    -fx-background-radius: 3.5;
+     -fx-background-insets: 0, 1, 2;
+}

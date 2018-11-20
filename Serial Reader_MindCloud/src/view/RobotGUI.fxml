@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="background" fx:id="_main_layout" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="768.0" prefWidth="1024.0" stylesheets="@StyleSheet.css" xmlns="http://javafx.com/javafx/" xmlns:fx="http://javafx.com/fxml/" fx:controller="controller.Controller">
+   <children>
+      <VBox layoutX="472.0" layoutY="236.0" prefHeight="435.0" prefWidth="544.0">
+         <children>
+            <Label text="Camera:">
+               <font>
+                  <Font name="Century Gothic Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label id="textInfo" fx:id="_decisions" prefHeight="23.0" prefWidth="518.0" stylesheets="@StyleSheet.css" />
+            <ImageView fitHeight="373.0" fitWidth="543.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Flag_of_Egypt_(variant).png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <TitledPane id="titledPane" alignment="CENTER" collapsible="false" layoutX="20.0" layoutY="236.0" prefHeight="435.0" prefWidth="400.0" stylesheets="@StyleSheet.css" text="Robot Information">
+         <content>
+            <AnchorPane id="titledPaneCanvas" prefHeight="277.0" prefWidth="403.0" stylesheets="@StyleSheet.css">
+               <children>
+                  <Label id="textInfo" fx:id="_longitude" layoutX="8.0" layoutY="14.0" prefHeight="10.0" stylesheets="@StyleSheet.css" text="Longitude:">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="textInfo" fx:id="_latitude" layoutX="8.0" layoutY="64.0" prefHeight="10.0" stylesheets="@StyleSheet.css" text="Latitude:">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="textInfo" fx:id="_current_angle" layoutX="8.0" layoutY="114.0" prefHeight="10.0" stylesheets="@StyleSheet.css" text="Current Angle:">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="textInfo" fx:id="_target_longitude" layoutX="8.0" layoutY="214.0" prefHeight="10.0" stylesheets="@StyleSheet.css" text="Target Longitude:">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="textInfo" fx:id="_target_latitude" layoutX="9.0" layoutY="264.0" prefHeight="10.0" stylesheets="@StyleSheet.css" text="Target Latitude:">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="textInfo" fx:id="_target_counter" layoutX="8.0" layoutY="314.0" prefHeight="10.0" stylesheets="@StyleSheet.css" text="Target Counter:">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="textInfo" fx:id="_distance" layoutX="8.0" layoutY="164.0" prefHeight="10.0" stylesheets="@StyleSheet.css" text="Distance:">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+         </content>
+         <font>
+            <Font name="Century Gothic Bold" size="18.0" />
+         </font>
+      </TitledPane>
+      <ImageView fitHeight="268.0" fitWidth="258.0" layoutX="758.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@logo.png" />
+         </image>
+      </ImageView>
+      <Label id="textInfo" fx:id="_connectivity" layoutX="302.0" layoutY="46.0" prefHeight="34.0" prefWidth="483.0" stylesheets="@StyleSheet.css">
+         <font>
+            <Font name="Century Gothic Bold" size="16.0" />
+         </font>
+      </Label>
+      <ToggleButton id="button" fx:id="_connect" layoutX="181.0" layoutY="46.0" mnemonicParsing="false" onAction="#connectAction" prefHeight="34.0" prefWidth="110.0" stylesheets="@StyleSheet.css" text="Connect">
+         <font>
+            <Font name="Century Gothic Bold" size="15.0" />
+         </font></ToggleButton>
+      <Label id="textInfo" fx:id="_debug" layoutX="14.0" layoutY="690.0" prefHeight="45.0" prefWidth="1000.0" stylesheets="@StyleSheet.css" text="Debug Info:">
+         <font>
+            <Font name="Century Gothic Bold" size="20.0" />
+         </font>
+      </Label>
+      <ComboBox id="button" fx:id="_ports" layoutX="20.0" layoutY="80.0" onAction="#portOnAction" prefHeight="26.0" prefWidth="154.0" promptText="PORT" stylesheets="@StyleSheet.css" />
+      <ComboBox id="button" fx:id="_baud_rate" layoutX="20.0" layoutY="46.0" onAction="#baudRateOnAction" prefHeight="26.0" prefWidth="154.0" promptText="BAUD RATE" stylesheets="@StyleSheet.css" />
+   </children>
+</AnchorPane>
