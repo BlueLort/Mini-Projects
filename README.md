@@ -45,5 +45,10 @@ You may try any project using the executable file i left in the folder of the pr
    
    ![SERIAL READER IMAGE](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/mindcloud%20Serial%20Reader.png)
    
+ ## Sorting Analyzer
+   - Application to analyze running time of common sorting algorithms
+   - Visualization to Bubble,Selection & Quick sort.
+   ![SORTING ANALYZER1](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Sorting%20Analyzer%201.PNG)
+   ![SORTING ANALYZER2](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Sorting%20Analyzer%202.PNG)
  #
  ####
