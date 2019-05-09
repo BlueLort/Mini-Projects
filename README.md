@@ -23,7 +23,9 @@ You may try any project using the executable file i left in the folder of the pr
    ![TEXT AUTOCORRECT1 IMAGE](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Autocorrect1.png)
    
    ![TEXT AUTOCORRECT2 IMAGE](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Autocorrect2.png)
+   
    -using RedBlack Trees for the Java Implmentation.
+   
    ![TEXT AUTOCORRECT3 IMAGE](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Autocorrect3.png)
    
 ## Java Calculator
