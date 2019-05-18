@@ -56,4 +56,16 @@ You may try any project using the executable file i left in the folder of the pr
    ![SORTING ANALYZER1](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Sorting%20Analyzer%201.PNG)
    ![SORTING ANALYZER2](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Sorting%20Analyzer%202.PNG)
  #
+ ## Maze Solver
+   - Application to generate random mazes and find the shortest path between 2 points (Using Dijkstra).
+   ![MAZE SOLVER1](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/mazeSolver1.PNG)
+   
+   - After specifying start(green point) and end(red point) points you can click generate graph to visualize how the maze can be turned into a graph yellow points are nodes and blues are the edges between them.
+   
+   ![MAZE SOLVER2](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/mazeSolver2.PNG)
+   
+   -After clicking Dijkstra it will show only the path between the start and end points.
+   
+   ![MAZE SOLVER3](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/mazeSolver3.PNG)
+ #
  ####
