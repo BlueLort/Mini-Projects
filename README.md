@@ -40,7 +40,6 @@ You may try any project using the executable file i left in the folder of the pr
    - This project was for College so i did not do it alone so i have to mention my friends: 
      - Sherif(SherifRafik)
      - Mohamed(harraz21)
-   - Unfortunately this project has some bugs(undo&redo) due to short time developing it during college.
    
    ![Paint Image](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Java%20Paint.png)
 ## Serial Reader
