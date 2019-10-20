@@ -67,4 +67,11 @@ You may try any project using the executable file i left in the folder of the pr
    
    ![MAZE SOLVER3](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/mazeSolver3.PNG)
  #
+ ## Simple Unix Shell
+   - Simple Unix Shell using fork() & execvp().
+   ![UNIX SHELL1](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/unixShell1.PNG)
+
+   -Log File.
+   ![UNIX SHELL2](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/unixShell2.PNG)
+ #
  ####
