@@ -69,9 +69,9 @@ You may try any project using the executable file i left in the folder of the pr
  #
  ## Simple Unix Shell
    - Simple Unix Shell using fork() & execvp().
-   ![UNIX SHELL1](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/unixShell1.PNG)
+   ![UNIX SHELL1](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/unixShell1.png)
 
    -Log File.
-   ![UNIX SHELL2](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/unixShell2.PNG)
+   ![UNIX SHELL2](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/unixShell2.png)
  #
  ####
