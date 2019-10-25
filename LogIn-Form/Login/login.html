@@ -1,0 +1,21 @@
+<div class="textAll">
+    <h1>Log-in Form</h1>
+    <?php if($badInput==TRUE) 
+            
+            echo '<h3 id="errors" style="color:red;">invalid credentials</h3>'
+            
+            ?>
+    <table cellspacing='5'>
+        <tr>
+            <td><label for="email">Email:</label></td>
+            <td><input id="email" type="email" placeholder="Email" required autofocus></td>
+        </tr>
+        <tr>
+            <td> <label for="password">Password:</label></td>
+            <td> <input id="password" type="password" placeholder="Password" required></td>
+        </tr>
+
+    </table>
+    <button id="logBtn" type="button">Log in</button>
+    <button id="regBtn" type="button"  style="background-color: rgb(0, 96, 175);">Register</button>
+</div>

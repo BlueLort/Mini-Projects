@@ -1,0 +1,35 @@
+<div class="textAll">
+    <h1>Register Form</h1>
+    <h3 id="errors" style="color:red;">
+        <?php 
+                        if($badEmail==TRUE) {
+                            echo 'unavailable email';
+                        }elseif($badUserName==TRUE){
+                            echo 'unavailable username';
+                        }elseif($badInput==TRUE){
+                            echo 'invalid data';
+                        }
+                        ?>
+    </h3>
+
+    <table cellspacing='5'>
+        <tr>
+            <td><label for="email">Email:</label></td>
+            <td><input id="email" type="email" placeholder="Email" required autofocus></td>
+        </tr>
+        <tr>
+            <td><label for="username">Username:</label></td>
+            <td><input id="username" type="text" placeholder="Username" required></td>
+        </tr>
+        <tr>
+            <td> <label for="password">Password:</label></td>
+            <td> <input id="password" type="password" placeholder="Password" required></td>
+        </tr>
+        <tr>
+            <td> <label for="re_password">Re-Password:</label></td>
+            <td> <input id="re_password" type="password" placeholder="Confirm Password" required></td>
+        </tr>
+    </table>
+    <button id="regBtn" type="button">Register</button>
+    <button id="logBtn" type="button" style="background-color: rgb(0, 96, 175);">Log In</button>
+</div>

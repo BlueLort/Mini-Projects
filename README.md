@@ -54,7 +54,7 @@ You may try any project using the executable file i left in the folder of the pr
    - Visualization to Bubble,Selection & Quick sort.
    ![SORTING ANALYZER1](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Sorting%20Analyzer%201.PNG)
    ![SORTING ANALYZER2](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/Sorting%20Analyzer%202.PNG)
- #
+ 
  ## Maze Solver
    - Application to generate random mazes and find the shortest path between 2 points (Using Dijkstra).
    ![MAZE SOLVER1](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/mazeSolver1.PNG)
@@ -66,12 +66,17 @@ You may try any project using the executable file i left in the folder of the pr
    -After clicking Dijkstra it will show only the path between the start and end points.
    
    ![MAZE SOLVER3](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/mazeSolver3.PNG)
- #
+ 
  ## Simple Unix Shell
    - Simple Unix Shell using fork() & execvp().
    ![UNIX SHELL1](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/unixShell1.png)
 
    -Log File.
    ![UNIX SHELL2](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/unixShell2.png)
+
+ ## Log-in Form
+   - Log-in Form using AJAX,PHP
+   ![LOGIN FORM](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/loginForm1.png)
+   
  #
  ####

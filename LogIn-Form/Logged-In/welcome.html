@@ -1,0 +1,23 @@
+<div class="textAll">
+    <h1>Welcome , <?php echo $_SESSION['username'] ?></h1>
+    <table cellspacing='5'>
+        <tr>
+            <td><label>Your Email:</label></td>
+            <td><span><?php echo $_SESSION['email'] ?></span></td>
+        </tr>
+        <tr>
+            <td><label>Your Username:</label></td>
+            <td><span><?php echo $_SESSION['username']??'Not Specified' ?></span></td>
+        </tr>
+        <tr>
+            <td><label>Your ID:</label></td>
+            <td><span><?php echo $_SESSION['id'] ?></span></td>
+        </tr>
+        <tr>
+            <td><label>Your Reg. Date:</label></td>
+            <td><span><?php echo $_SESSION['regDate'] ?></span></td>
+        </tr>
+
+    </table>
+    <button id="logOut" type="button">Log Out</button>
+</div>
