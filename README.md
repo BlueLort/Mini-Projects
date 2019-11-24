@@ -79,5 +79,8 @@ You may try any project using the executable file i left in the folder of the pr
    - Log-in Form using AJAX,PHP
    ![LOGIN FORM](https://github.com/BlueLort/Mini-Projects/blob/master/Projects%20images/loginForm1.png)
    
+## 8086 Sorting
+   - Sorting students based on their grades using 8086 Assembly.
+   
  #
  ####
