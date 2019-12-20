@@ -83,4 +83,12 @@ You may try any project using the executable file i left in the folder of the pr
    - Sorting students based on their grades using 8086 Assembly.
    
  #
+ 
+ ## Semaphores Producer Consumer
+   -using posix semaphores and applying it for the Producer consumer problem using a ring buffer
+   
+   Compile using:
+      g++ -std=c++11 main.cpp -pthread -o main
+ #
+
  ####
